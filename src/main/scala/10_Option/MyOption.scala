@@ -1,6 +1,6 @@
 package masuda.yuya
 
-object Option{
+object MyOption{
     def main(args: Array[String]): Unit = {
         // 問題1確認
         val x: Option[Int] = None
