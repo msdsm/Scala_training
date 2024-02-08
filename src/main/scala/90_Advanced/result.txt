@@ -1,0 +1,29 @@
+C
+B
+A
+D
+123
+空でした
+List(1, 2, 3, 4, 5)
+List(5, 4, 3, 2, 1)
+List(1, 2)
+List((1,0), (3,1), (2,2), (5,3), (4,4))
+3
+List(1, 3, 2, 5, 4)
+List((Article(1,a,a),Some(ArticleDetail(1,x))), (Article(1,b,b),Some(ArticleDetail(1,x))), (Article(2,c,c),Some(ArticleDetail(2,y))), (Article(3,d,d),None))
+差集合はSet(1, 2, 3)
+和集合はSet(5, 1, 2, 3, 4)
+List(Person(1,a,None), Person(2,b,None), Person(3,c,None), Person(4,d,None))
+ArraySeq(Some(1), Some(2), Some(3), Some(4), None)
+なし
+abcdef
+100
+string
+0
+6
+(List(User(1,a,18), User(2,b,18), User(3,c,18)),List(UserInfo(1,a@gmail.com,000-0000-0000), UserInfo(2,b@gmail.com,123-4567-8901)))
+直方体の体積は24
+四角錐の体積は8
+false
+2024年02月8日 20時28分
+ViewValueUser(1,nextbeat,10,nextbeat@nextbeat.net,09000000000)
